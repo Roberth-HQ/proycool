@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proycool/static/css/main.f855e6bc.css",
+    "main.js": "/proycool/static/js/main.b0864d7f.js",
+    "static/js/453.06e82c19.chunk.js": "/proycool/static/js/453.06e82c19.chunk.js",
+    "static/media/logo.svg": "/proycool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proycool/index.html",
+    "main.f855e6bc.css.map": "/proycool/static/css/main.f855e6bc.css.map",
+    "main.b0864d7f.js.map": "/proycool/static/js/main.b0864d7f.js.map",
+    "453.06e82c19.chunk.js.map": "/proycool/static/js/453.06e82c19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b0864d7f.js"
+  ]
+}
